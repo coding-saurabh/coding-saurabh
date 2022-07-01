@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Building [Rippl](https://rippl.club) | Gamification | Rewards | Customer engagement | Product .
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; B.Tech graduate with years of experience inDigital Marketing and software development.
+- 🎓 &nbsp; B.Tech graduate with years of experience in Digital Marketing and Software Development.
 - 💼 &nbsp; Working as a Software Developer at Krya Innovations.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Loving what I'm doing, doing what I love.
