@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Building [Rippl](https://rippl.club) | Gamification | Rewards | Customer engagement | Product .
+- 🔧 &nbsp; Building [Rippl](https://rippl.club) | Gamification | Rewards | Customer engagement | Product .
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; B.Tech graduate with years of experience in Digital Marketing and Software Development.
 - 💼 &nbsp; Working as a Software Developer at Krya Innovations.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 💻 &nbsp; Learning more about Cloud Architecture, Systems Design, Blockchain and Artificial Intelligence.
 - ✍️ &nbsp; Loving what I'm doing, doing what I love.
 - 🌱 &nbsp; Health enthusiast | Javelin player.
 
