@@ -1,46 +1,42 @@
-<h2> Hey there! I'm Saurabh, coding-saurabh.</h2>
+<h2>Hey, I'm Saurabh 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+**2x Founder** building products that solve real problems.
 
-- 👨🏽‍💻 &nbsp; Building [Dizios](https://dizios.com) | Fitness Ecosystem | Fitness tech | Customer engagement | Product .
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; B.Tech graduate with years of experience in Digital Marketing and Software Development.
-- 💼 &nbsp; Founder at Vikrama Innovations Pvt Ltd.
-- 💻 &nbsp; Learning more about Cloud Architecture, Systems Design, Blockchain and Artificial Intelligence.
-- ✍️ &nbsp; Loving what I'm doing, doing what I love.
-- 🌱 &nbsp; Health enthusiast | Javelin player.
+### What I'm Building
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+🏋️ **[Dizios](https://dizios.com)** — The AI fitness platform for studios, trainers, and the people they transform. Not another gym management tool. An operating system for the fitness industry.
 
-- 💻 &nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php&logoColor=007396)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
-  ![AWS CodeCommit](https://img.shields.io/badge/-AWS%20Codecommit-333333?style=flat&logo=awscodecommit)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+🚀 **[Vikrama](https://vikrama.in)** — AI Systems & Growth Studio. We help businesses ship AI-first products, not PowerPoint strategies.
 
-<br/>
+### The Stack I Ship With
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+```
+Frontend    →  Next.js · React · Flutter · Tailwind
+Backend     →  NestJS · Node.js · Prisma · PostgreSQL
+AI / Data   →  LLM Integration · AI Agents · Prompt Engineering
+Cloud       →  AWS · Firebase · Hostinger Cloud
+Payments    →  Razorpay · UPI Integration
+Tools       →  Claude Code · Git · Figma
+```
 
-<p align="center">
-<a href="https://www.linkedin.com/in/coding-saurabh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saurabh%20Kumar-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sau.rab.h/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sau.rab.h-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:kumarsaurabh.code@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kumarsaurabh.code@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+### What I Believe
 
-⭐️ From [Coding-Saurabh](https://github.com/coding-saurabh/)
+- Ship fast, learn faster. I built Dizios's entire backend (120+ APIs, 60+ models) and 3 apps in months — solo.
+- AI isn't a feature. It's the product. Every tool I build has intelligence baked in from day one.
+- India-first, global-ready. Building for ₹ before $.
+
+### Recent Work
+
+- 🏋️ Dizios — NestJS backend + Flutter Business & Member apps + Next.js dashboard. Full fitness ecosystem.
+- 🌐 Vikrama — 12 AI & growth services for SMBs, D2C brands, and funded startups.
+- 👶 [CutePotatoIndia](https://cutepotatoindia.com) — D2C organic babywear brand (Shopify).
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh_Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-saurabh/)
+[![Twitter](https://img.shields.io/badge/X-@coding__saurabh-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/coding_saurabh)
+[![Email](https://img.shields.io/badge/Email-kumarsaurabh.code@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kumarsaurabh.code@gmail.com)
+
+---
+
+<sub>I don't mass-collect badges. I ship products.</sub>
