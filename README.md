@@ -16,7 +16,7 @@ Backend     →  NestJS · Node.js · Prisma · PostgreSQL
 AI / Data   →  LLM Integration · AI Agents · Prompt Engineering
 Cloud       →  AWS · Firebase · Hostinger Cloud
 Payments    →  Razorpay · UPI Integration
-Tools       →  Claude Code · Git · Figma
+Tools       →  Git · Figma
 ```
 
 ### What I Believe
