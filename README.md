@@ -6,7 +6,7 @@
 
 🏋️ **[Dizios](https://dizios.com)** — The AI fitness platform for studios, trainers, and the people they transform. Not another gym management tool. An operating system for the fitness industry.
 
-🚀 **[Vikrama](https://vikrama.in)** — AI Systems & Growth Studio. We help businesses ship AI-first products, not PowerPoint strategies.
+🚀 **[Vikrama](https://vikrama.studio)** — AI Systems & Growth Studio. We help businesses ship AI-first products, not PowerPoint strategies.
 
 ### The Stack I Ship With
 
